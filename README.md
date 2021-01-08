@@ -30,10 +30,10 @@ todo saved
 todo saved
 ```
 
-if we check the content of db.txt, we will see something like that:
+if we check the content of db.json, we will see something like that:
 
 ```
-$ cat db.txt
+$ cat db.json
 play video games    true
 write some code     false
 ```
